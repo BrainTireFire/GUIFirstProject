@@ -1,0 +1,5 @@
+name Maciej surname Kawecki position Developer age 23 seniority 2 salary 10000
+name Maria surname Wysocka position Accountant age 50 seniority 20 salary 3000
+name Pedro surname Podłoga position Trader age 33 seniority 10 salary 5000
+name Tomek surname Karsznia position Developer age 22 seniority 3 salary 8000
+name asdas surname asdsa position Janitor age 123123 seniority 12312 salary 3123312

@@ -1,0 +1,8 @@
+name Dominik surname Kowalski position Trader age 18 seniority 2 salary 6500
+name Jan surname Owczarek position Janitor age 47 seniority 30 salary 3500
+name Jan surname Perro position Trader age 23 seniority 2332 salary 2332
+name Maciej surname Kawecki position Developer age 23 seniority 2 salary 10000
+name Maria surname Wysocka position Accountant age 50 seniority 20 salary 3000
+name Maria surname Wysocka position Lawyer age 50 seniority 5 salary 15000
+name Pedro surname Podłoga position Trader age 33 seniority 10 salary 5000
+name Tomek surname Karsznia position Developer age 22 seniority 3 salary 8000
