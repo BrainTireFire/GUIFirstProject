@@ -1,3 +1,3 @@
 # Person managment
 ## Description
-Project for the GUI subject. Swing application with comparato.
+Project for the GUI subject. JAVA Swing application with comparato.
